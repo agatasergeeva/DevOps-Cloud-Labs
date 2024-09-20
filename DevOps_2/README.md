@@ -7,5 +7,5 @@ COPY . /app
 CMD ["python", "/app/app.py"]
 ```
 Описание этих “bad practices”:
-<u1> 1.	Использование latest: </u1>
+1. **Использование latest**: 
 Это «bad practices», так как version latest может измениться со временем и привести к неожиданному поведению приложения. 
