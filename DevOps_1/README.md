@@ -68,7 +68,6 @@
 
 ### И вот, что у нас получилось в итоге:
 
-...
 
 ![тринадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/thirteenth.png)
 
@@ -88,6 +87,7 @@
 
 ![семнадцатыый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/seventeenth.png)
 
+### Проверяем:
 
 ![одиннадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/eleventh.png)
 
