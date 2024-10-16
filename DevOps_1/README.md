@@ -62,7 +62,7 @@
 
 ### Далее отредактируем наши файлы конфигурации для того, чтобы у нас происходило перенаправление HTTP-запросов на HTTPS (для lab1 аналогично):
 
-![десятый скрин]()
+![десятый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/tenth.png)
 
 .....
 
