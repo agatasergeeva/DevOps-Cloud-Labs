@@ -72,7 +72,7 @@
 
 ![двенадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/twelfth.png)
 
-![тринадцатый скрин]()
+![тринадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/thirteenth.png)
 
 ![четырнадцатый скрин]()
 
