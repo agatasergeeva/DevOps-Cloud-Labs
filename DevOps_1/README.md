@@ -20,7 +20,7 @@
 
 ### Для начала попробуем не перенаправлять HTTP на HTTPS
 
-фото
+![пятый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/fifth.png)
 
 Для lab2 прописываем все по аналогии, меняем цифру 1 на 2, где требуется. 
 
