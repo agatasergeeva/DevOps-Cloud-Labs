@@ -56,7 +56,7 @@
 
 `-subj “/CN=…”`: Определяет объектное имя сертификата, указывая, для какого доменного имени сертификат предназначен. 
 
-### Также необходимо активировать файлы, поэтому создадим символические символы на них: 
+### Также необходимо активировать файлы, поэтому создадим символические ссылки на них: 
 
 ![девятый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/ninth.png)
 
@@ -67,10 +67,6 @@
 этот файл конфигурации настраивает веб-сайт, доступный по адресу «lab2.local», который использует SSL/TLS (HTTPS) и перенаправляет весь HTTP-трафик на HTTPS
 
 ### И вот, что у нас получилось в итоге:
-
-![одиннадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/eleventh.png)
-
-![двенадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/twelfth.png)
 
 ...
 
@@ -93,3 +89,8 @@
 ![семнадцатыый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/seventeenth.png)
 
 
+![одиннадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/eleventh.png)
+
+![двенадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/twelfth.png)
+
+### На это всё
