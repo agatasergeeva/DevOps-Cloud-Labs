@@ -16,7 +16,7 @@
 
 ### Также нам необходимо добавить домены сайтов в хосты с помощью `sudo nano /etc/hosts/`, где мы записываем IP сервера и домены:
 
-фото
+![четвертый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/fourth.png)
 
 ### Для начала попробуем не перенаправлять HTTP на HTTPS
 
