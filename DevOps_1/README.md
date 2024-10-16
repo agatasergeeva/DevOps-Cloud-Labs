@@ -74,7 +74,7 @@
 
 ![тринадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/thirteenth.png)
 
-![четырнадцатый скрин]()
+![четырнадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/fourteenth.png)
 
 Отлично, у нас все заработало
 
