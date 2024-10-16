@@ -88,6 +88,6 @@
 
 ![шестнадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/sixteenth.png)
 
-![семнадцатыый скрин]()
+![семнадцатыый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/seventeenth.png)
 
 ......
