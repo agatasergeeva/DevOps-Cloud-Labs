@@ -86,7 +86,7 @@
 
 ### После создания нам необходимо снова изменить файлы конфигураций: 
 
-![шестнадцатый скрин]()
+![шестнадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/sixteenth.png)
 
 ![семнадцатыый скрин]()
 
