@@ -4,8 +4,10 @@
 
 ### Сначала обновляем все с помощью `sudo apt update`, а затем установим *nginx* на виртуальной машине (Linux Ubuntu):
 
-![первый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/image.png)
-фото
+![первый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/first.png)
+
+
+![второй скрин]()
 
 После этого проверяем статус работы с помощью `systemctl status nginx` 
 ### Затем создаем все папки/файлы, которые нам потребуются в дальнейшей работе
