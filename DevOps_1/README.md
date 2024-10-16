@@ -30,7 +30,7 @@
 
 ### Подготовим все для того, чтобы сделать сертификаты:
 
-фото
+![шестой скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/sixth.png)
 
 ### Теперь для каждого домена генерируем самоподписанный сертификат:
 
