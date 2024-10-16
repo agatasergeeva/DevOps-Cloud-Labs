@@ -36,7 +36,7 @@
 
 ![седьмой скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/seventh.png)
 
-![восьмой скрин]()
+![восьмой скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/eighth.png)
 
 **Разберем команду, чтобы сгенерировать сертификат:**
 
