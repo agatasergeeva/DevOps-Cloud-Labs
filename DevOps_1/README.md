@@ -72,6 +72,8 @@
 
 ![двенадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/twelfth.png)
 
+.....
+
 ![тринадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/thirteenth.png)
 
 ![четырнадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/fourteenth.png)
@@ -80,6 +82,12 @@
 
 *Нам снова надо создать много интересных вещей:* 
 
-![пятнадцатый скрин]()
+![пятнадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/fifteenth.png)
 
 ### После создания нам необходимо снова изменить файлы конфигураций: 
+
+![шестнадцатый скрин]()
+
+![семнадцатыый скрин]()
+
+......
