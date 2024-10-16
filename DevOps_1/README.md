@@ -64,7 +64,7 @@
 
 ![десятый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/tenth.png)
 
-.....
+этот файл конфигурации настраивает веб-сайт, доступный по адресу «lab2.local», который использует SSL/TLS (HTTPS) и перенаправляет весь HTTP-трафик на HTTPS
 
 ### И вот, что у нас получилось в итоге:
 
@@ -72,7 +72,7 @@
 
 ![двенадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/twelfth.png)
 
-.....
+...
 
 ![тринадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/thirteenth.png)
 
@@ -88,6 +88,8 @@
 
 ![шестнадцатый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/sixteenth.png)
 
+Эта конфигурация создаёт виртуальный хост для домена «lab1.local»(аналогично для «lab2.local») и настраивает перенаправление по протоколу HTTP (порт 80) и HTTPS (порт 443).
+
 ![семнадцатыый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/seventeenth.png)
 
-......
+
