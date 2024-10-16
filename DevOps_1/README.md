@@ -7,7 +7,7 @@
 ![первый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/first.png)
 
 
-![второй скрин]()
+![второй скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/second.png)
 
 После этого проверяем статус работы с помощью `systemctl status nginx` 
 ### Затем создаем все папки/файлы, которые нам потребуются в дальнейшей работе
