@@ -1,10 +1,10 @@
-# Лабораторная работа №3
+# Лабораторная работа №1
 
 ## Настройка Nginx
 
 ### Сначала обновляем все с помощью `sudo apt update`, а затем установим *nginx* на виртуальной машине (Linux Ubuntu):
 
-фото
+![первый скрин](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_1/folder/image.png)
 фото
 
 После этого проверяем статус работы с помощью `systemctl status nginx` 
