@@ -29,6 +29,10 @@ on: push активирует workflow при каждом пуше в репо�
 
 ![bad](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Bad.png)
 
+Также прикрепляем скрин pipelines для  “bad practices”:
+
+![sc1](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Bad2.png)
+
 ## Теперь рассмотрим *“хороший”* CI/CD, в котором эти плохие практики исправлены.
 
 ### Исправление *«плохого»* CI/CD:
@@ -42,3 +46,6 @@ on: push активирует workflow при каждом пуше в репо�
 
 ![good](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Good.png)
 
+Также прикрепляем скрин pipelines для  “good practices”:
+
+![sc2](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Good2.png)
