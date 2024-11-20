@@ -1,4 +1,4 @@
-name: Good CI/CD Pipeline
+name: Good
 
 on:
   push:
@@ -7,44 +7,28 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04 
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-
-      - name: Use Node.js cache
-        uses: actions/cache@v3
         with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: pip3 install -r requirements.txt
-
-      - name: Run Linting
-        run: |
-          pip3 install flake8
-          flake8 .
-
-      - name: Build Docker image
-        run: docker build -t my-app .
-
-      - name: Run Docker container
-        run: |
-          docker run --rm -p 8080:8080 my-app
-
-      - name: Deploy to server
+      - name: Set up environment variables
         env:
           API_KEY: ${{ secrets.API_KEY }}
           DB_URL: ${{ secrets.DB_URL }}
           OUTPUT_DIR: /output
         run: |
-          scp -r $OUTPUT_DIR user@server:/var/www/my-app
+          echo "Environment variables set"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip
+
+      - name: Run Linting
+        run: |
+          pip3 install flake8
+          flake8 .
