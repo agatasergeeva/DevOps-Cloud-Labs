@@ -20,11 +20,11 @@
 
 Для проверки работы кода, мы запустили его в github:
 
-![bad](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Bad.png)
+![bad](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_2/DevOps_2***/photo/Bad1.png)
 
 Также прикрепляем скрин pipelines для  “bad practices”:
 
-![sc1](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Bad2.png)
+![sc1](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_2/DevOps_2***/photo/Bad222.png)
 
 ## Теперь рассмотрим *“хороший”* Docker compose file, в котором эти плохие практики исправлены.
 
@@ -37,11 +37,11 @@
 
 Для проверки исправленного кода, мы также запустили его в github:
 
-![good](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Good.png)
+![good](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_2/DevOps_2***/photo/Good1111.png)
 
 Также прикрепляем скрин pipelines для  “good practices”:
 
-![sc2](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_3/screen/Good2.png)
+![sc2](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_2/DevOps_2***/photo/Good22222.png)
 
 
 
@@ -54,3 +54,11 @@
 **Принцип изоляции**
 
 Когда контейнеры подключены к разным сетям, они не могут взаимодействовать друг с другом, так как Docker создает отдельные виртуальные сети для каждого из них, что позволяет обеспечить безопасность и контроль доступа между различными компонентами приложения. В нашем случае веб-сервер `nginx` не сможет обратиться к API-сервису, и наоборот, что может быть полезно для повышения безопасности и управления трафиком.
+
+Теперь для проверки нового Composse file запускаем его в github:
+
+![new](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_2/DevOps_2***/photo/new111.png)
+
+Также прикрепляем скрин piplines:
+
+![new2](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/DevOps_2/DevOps_2***/photo/new2222222.png)
