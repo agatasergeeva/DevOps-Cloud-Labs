@@ -90,7 +90,7 @@ Cold/Warm Storage Support – поддержка "холодного"/"тепл�
 
 ###Результат нашей работы:
 
-![photo]()
+![photo](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/Cloud_Lab1/photo_2024-12-11_15-49-00.jpg)
 
 
 
