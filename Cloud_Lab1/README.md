@@ -49,8 +49,8 @@
 
 *Использованные сервисы:*
 
-- Amazon DynamoDB : управление базой данных, емкостью и использованием ресурсов.
-- Amazon DynamoDB Accelerator : оптимизированная производительность для DynamoDB.
+- Amazon DynamoDB - управление базой данных, емкостью и использованием ресурсов.
+- Amazon DynamoDB Accelerator - оптимизированная производительность для DynamoDB.
 
 
 4. **Machine Learning (ML)**
