@@ -65,4 +65,4 @@
 
 ### Результат нашей работы:
 
-![photo](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/Cloud_lab2/Снимок%20экрана%202024-12-21%20170444.png)
+![photo](https://github.com/agatasergeeva/DevOps-Cloud-Labs/blob/main/Cloud_lab2/Снимок%20экрана%202024-12-21%20172354.png)
